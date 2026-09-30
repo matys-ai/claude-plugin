@@ -8,6 +8,7 @@
     "url": "https://www.matys.ai"
   },
   "homepage": "https://www.matys.ai",
+  "privacyPolicyUrl": "https://www.matys.ai/privacy",
   "repository": "https://github.com/matys-ai/claude-plugin",
   "keywords": [
     "analytics",
