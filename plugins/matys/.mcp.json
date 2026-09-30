@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "matys": {
+      "type": "http",
+      "url": "https://numize.up.railway.app/api/mcp/mcp"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "matys",
+  "displayName": "Matys",
+  "description": "Ask Matys, your AI data analyst, business questions about your connected datasources.",
+  "version": "0.1.0",
+  "author": { "name": "Matys", "url": "https://www.matys.ai" },
+  "homepage": "https://www.matys.ai",
+  "repository": "https://github.com/matys-ai/claude-plugin",
+  "keywords": ["analytics", "data", "sql", "bi", "mcp"]
+}

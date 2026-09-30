@@ -1,0 +1,15 @@
+{
+  "name": "matys",
+  "description": "Official Claude Code plugins for Matys, the AI data analyst.",
+  "owner": {
+    "name": "Matys",
+    "url": "https://www.matys.ai"
+  },
+  "plugins": [
+    {
+      "name": "matys",
+      "description": "Ask Matys, your AI data analyst, business questions about your connected datasources.",
+      "source": "./plugins/matys"
+    }
+  ]
+}
